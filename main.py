@@ -1,7 +1,7 @@
 from kahn_ln import test_kahn_ln
 from tarjan_ms import test_tarjan_ms
-#from tarjan_ln import test_tarjan_ln
-#from kahn_ms import test_kahn_ms
+from tarjan_ln import test_tarjan_ln
+from kahn_ms import test_kahn_ms
 
 if __name__ == "__main__":
     import os
